@@ -15,6 +15,7 @@ const initialContainerBackgroundClassNames = [
   'light-blue',
 ]
 
+//Learning
 class Comments extends Component {
   state = {
     nameInput: '',
